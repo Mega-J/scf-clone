@@ -212,10 +212,10 @@ const LandingPage = () => {
             Enjoy blockchain finance has never been so easy!
           </p>
           <a
-            href="https://www.fintoch.icu/"
+            href="https://www.account.scfchain.online/register/"
             className=" text-lg text-center md:text-[20px]  block mt-12 text-black mx-auto font-semibold p-3 w-[139px] md:w-[250px] rounded-lg bg-white"
           >
-            Get Started Now
+            FTC/SCF SWAP ASSISTANT
           </a>
         </div>
       </section>
