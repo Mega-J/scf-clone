@@ -200,9 +200,9 @@ const TeamMembers: TeamMembersData[] = [
 const LandingPage = () => {
   return (
     <div className="relative top-10 xl:top-0">
-      <section className="relative pb-12 text-white xl:pb-0 xl:h-screen herobg">
-        <div className="absolute inset-0 -z-10">
-          <Image src={orangebg} className="object-cover" alt="Image" fill />
+     <section className="grid grid-cols-1 gap-x-8 mt-32 md:pl-24 md:grid-cols-2">
+        <div className="self-center md:order-1"  >
+          <Image src={circlescf} alt="Image" />
         </div>{" "}
         <div className="z-10">
           <h2 className="pt-20 leading-[42px] px-2 md:leading-[72px] text-center font-bold text-[28px] md:text-[56px]">
