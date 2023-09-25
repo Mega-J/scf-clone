@@ -3,7 +3,9 @@ import Head from 'next/head'
 function IndexPage() {
   return (
     <div>
-      <Head><!-- Smartsupp Live Chat script -->
+      <Head>
+   
+   <!-- Smartsupp Live Chat script -->
 <script type="text/javascript">
 var _smartsupp = _smartsupp || {};
 _smartsupp.key = '96a578f96751bd06f77a9a3188954f3aceeb4ebc';
